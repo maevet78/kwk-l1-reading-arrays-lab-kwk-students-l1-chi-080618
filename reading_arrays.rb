@@ -1,3 +1,5 @@
+def reading_arrays
+
 student_names = ["Adele","Beyoncé","Cardi B","Lady Gaga", "Nicki Minaj", "Rihanna"]
 
 def first_student_by_index
@@ -29,3 +31,5 @@ def first_second_and_third_students
   puts student_names[1..3]
 end
 first_second_and_third_students
+
+end 
